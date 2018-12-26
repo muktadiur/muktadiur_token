@@ -1,2 +1,3 @@
-# muktadiur_token
+# Muktadiur Token
+
 Coin in Ethereum blockchain: MuktadiurToken
